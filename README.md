@@ -4,7 +4,7 @@ Study: TextView and its properties, Toast Message, Snackbar Message, Android in-
 
 AIM: Create Activity to display “Hello World” in TextView in the center of Activity screen with yellow (android:background="#FFFF00") layout background of Activity. TextView properties should be Holo Blue color (android:textColor=@android:color/holo_blue_bright), 27sp font size (android:textSize="27sp") and make text style bold and italic (android:textStyle="bold|italic"). After creating Activity, demonstrate functions of Activity Life Cycle by using Log message, Toast message & Snackbar message. All methods of Activity life cycle should be printed in Logcat.
 
-![Uploading new pr 2.png…]()
+![new pr 2](https://user-images.githubusercontent.com/79136692/187613381-a6715b67-8333-4da9-9c1d-d984f901ec26.png)
 
 ![create](https://user-images.githubusercontent.com/79136692/187060990-0f1e7c21-0c44-42be-a603-08b493698ae7.png)
 
